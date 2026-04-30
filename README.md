@@ -1,19 +1,20 @@
-<h3 align="center">Languages</h1>
-<div align="center">
-  <div>
+<h3 align="center">Languages</h3>
 
-    <img src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=3776AB">
-  </div>
+<div align="center">
+    <!-- Иконка языка -->
+    <img src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=3776AB" alt="Java">
 </div>
 
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kkenos&layout=compact&theme=radical&count_private=true&show_icons=true&include_all_commits=true">
+    <!-- Основная статистика профиля -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Kkenos&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Kkenos GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
-    <img src="https://5a5c0de3.getflow.tech/api/top-langs/?username=Kkenos&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&layout=compact">
+    <!-- Топ используемых языков -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkenos&layout=compact&theme=tokyonight&count_private=true" alt="Kkenos Top Langs" />
 </div>
