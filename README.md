@@ -9,7 +9,7 @@
 
 <div align="center">
     <!-- Основная статистика профиля -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Kkenos&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Kkenos GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=torvalds&layout=compact&theme=radical&count_private=true&show_icons=true&include_all_commits=true">
 </div>
 
 <br>
