@@ -2,7 +2,7 @@
 <div align="center">
   <div>
 
-    <img src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=3776AB">
+    <img src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=3776AB">
   </div>
 </div>
 
